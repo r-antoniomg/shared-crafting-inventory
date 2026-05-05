@@ -18,9 +18,9 @@ source-code: https://github.com/r-antoniomg/shared-crafting-inventory/
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Shared Crafting Inventory - 2026-05-05T15:02-05:00 EDIT
+title: Shared Crafting Inventory
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: An inventory of shared crafting supplies.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
