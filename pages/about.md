@@ -77,6 +77,6 @@ Work in progress. Last updated 2026-05-07
 * `transportable` : category
   * yes
   * no
-* location : category
+* `location` : category
   * initials_house
   * Example: ae_house
