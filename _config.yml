@@ -20,7 +20,7 @@ source-code: https://github.com/r-antoniomg/shared-crafting-inventory/
 # title of site appears in banner
 title: Shared Crafting Inventory
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: An inventory of shared crafting supplies.
+tagline: An inventory of shared crafting tools and supplies.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This is a collection of shared crafting supplies."
@@ -54,7 +54,7 @@ organization-name: "A&A"
 organization-link: # https://cdil.lib.uidaho.edu/
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
 organization-logo-banner: # https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png
-organization-logo-nav: # https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
+organization-logo-nav: objects\aa-monogram-option4_nbg.png
 
 ##########
 # ROBOTS EXCLUDE
