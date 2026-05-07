@@ -30,10 +30,9 @@ Work in progress. Last updated 2026-05-07
 
 * Images should be taken or cropped to square (1:1) ratio
 * Images uploaded to the objects folder should be a maximum of [FILE SIZE]
-* Images uploaded to the objects folder should be [NUMBERS] pixels x [NUMBERS] pixels
-* Images uploaded to the objects folder should be in [file extension] format
+* Images uploaded to the objects folder should be in either `.jpg` o `.png` format
 * Filename convention: `objectid_owner initials_imageDate`
-* Example: `st0001_ae_2026-03-20`
+  * Example: `st0001_ae_2026-03-20`
 
 ### Metadata guidelines
 
