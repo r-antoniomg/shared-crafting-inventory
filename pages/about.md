@@ -5,7 +5,7 @@ permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image:
+about-featured-image: https://i.ibb.co/bfSj8sC/2026-05-16-crafting-banner-image.png
 # set background-position for featured image, "center", "top", "bottom"
 position: bottom
 # major heading to display over featured image
@@ -21,6 +21,8 @@ padding: 6em
 This collection features images of crafting supplies (primarily wax stamps and wax seals) that are up for sharing among the owners of these supplies, as well as to plan purchases of new supplies by avoiding duplication.
 
 In addition to the inventory and images, this site is meant to test various data and metadata best-practices and workflows.
+
+The image used in the homepage banner and the About page banner was partly generated using the Jupyter notebook found in [https://github.com/r-antoniomg/image-tiles](https://github.com/r-antoniomg/image-tiles). Some additional edits were done manually.
 
 ## Guidelines
 
