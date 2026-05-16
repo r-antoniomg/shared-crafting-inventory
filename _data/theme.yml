@@ -8,8 +8,8 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: https://r-antoniomg.github.io/shared-crafting-inventory/objects/small/sl0072_ae_2026-04-11_sm.jpg
-featured-image-alt-text: # add alt text if using url for featured-image (objectid will be automatic from metadata)
+featured-image: https://i.ibb.co/bfSj8sC/2026-05-16-crafting-banner-image.png
+featured-image-alt-text: A photo mosaic of a select sample of wax seals # add alt text if using url for featured-image (objectid will be automatic from metadata)
 # optional: add extra padding above collection title for a larger image feature. 
 home-title-y-padding: 10em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
