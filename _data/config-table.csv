@@ -1,5 +1,10 @@
 field,display_name
 title,Title
-date,Date
+date,Acquisition date
+owner_firstname,Owner
+manufacturer,manufacturer
+vendor,Vendor
 description,Description
+items_available,Number of items items available
 subject,Subjects
+location,Location
