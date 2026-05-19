@@ -1,10 +1,14 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
+date,Acquisition date,,,DCTERMS.date,
+owner_firstname,Owner,true,,,
+manufacturer,Manufacturer,,,,
+vendor,Vendor,,,,
 description,Description,,,DCTERMS.description,description
+items_available,Number of items available,,,,
 subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,DCTERMS.coverage,contentLocation
+location,Location,true,,,
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
