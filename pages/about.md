@@ -38,17 +38,18 @@ Work in progress. Last updated 2026-05-07
 
 ### Metadata guidelines
 
-* [REQUIRED BY CB] `objectid`: text string, alphanumericrd = parent record
+* [REQUIRED BY CB] `objectid`: text string, alphanumeric
+  * `rd` = parent record
   * `st` = stamp
   * `sl` = seal
   * `wx` = wax (beads or sticks)
   * `tl` = tool (spoon, spatula, mat, candle)
-  * `####` = four-digit consecutive number (consecutive relative to full-inventory, not relative to specific alphabetical code)
+  * `####` = four-digit consecutive number
+    * NOTE: 'multiple' and 'compound' objects require a parent record and children records. In these instances, the consecutive number is assigned to the parent record and all children records will get the same consecutive number.
   * Examples:
+    * `rd0001`
     * `st0001`
-    * `wx0002`
-    * `tl0003`
-    * `tl0004`
+    * `sl0001`
    
 * [REQUIRED BY CB] `object_location` : text string
   * `/objects/[filename].[extension]`
