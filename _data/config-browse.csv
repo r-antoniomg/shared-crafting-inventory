@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name,facet_name
-date,Acquisition date,,,Date Created
+date,Acquisition date,,,Acquisition date
 description,,,true,
 owner_firstname,Owner,,,
 subject,,true
